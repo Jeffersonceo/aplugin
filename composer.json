@@ -2,7 +2,14 @@
     "name": "jeffersonceo/aplugin", 
     "type": "library",
     "license": "MIT",
-
+    "authors": [
+        {
+            "name": "Sitesaj",
+            "email": "contato@sitesaj.com",
+            "homepage": "https://sitesaj.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "illuminate/support": "^10.0",
         "symfony/process": "^6.0",
