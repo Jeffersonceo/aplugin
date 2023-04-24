@@ -1,11 +1,10 @@
-Core classes for [Vanguard](https://vanguardapp.io) plugin support.
 
 ## Installation
 
 To install the package just run the following command:
 
 ```
-composer require vanguardapp/plugins
+composer require jeffersonceo/aplugin
 ```
 
 ## License
