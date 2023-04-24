@@ -1,11 +1,11 @@
-Core classes for [Vanguard](https://vanguardapp.io) plugin support.
+Core classes for [SINC](https://app.io) plugin support.
 
 ## Installation
 
 To install the package just run the following command:
 
 ```
-composer require vanguardapp/plugins
+composer require sincnetwork/plugins
 ```
 
 ## License
